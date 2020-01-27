@@ -1,0 +1,69 @@
+Введение привычек облегчает усовершенствование качества жизнедаятельности.
+Мне нравится идея иметь привычку протоколировать все, чем занимаюсь, изучаю.
+Кстати, классная идея - приложение, в котором и протоколирую текстом и там жа работет таймер.
+
+Развивать интерес к любимому программированию вместо бестолкового просмотра стримов.
+
+Еще хорошая тренировочная практика - брать или составлять диалоги и много раз повторять их с осмыслением мозгом.
+Прежде чем браться я должен знать и на русском что вообще ответить.
+
+ИЗВЛЕЧЬ случаи использования past continious и past simple. Мне пока трудно ориентироваться в резонности использования
+
+=========
+связанный список классов. события входа в объект (уровень) - биндинг, сценарий входа.
+	это класс, имеет линки на след и пред объект. также поле указатель но код сценария.
+	таким образом список аккуратно настраивается в маин форме. объекты можно интерпретировать и как
+	суб-view с 
+---------
+
+started at 13-43
+>>> Gerund after Adjective + Preposition
+1. afraid of
+They are afraid of losing the mutch.
+My:
+I am afraid of watching TV for hours.
+paused at 14-00
+
+from 21-24 to 22-24 was class with Simon
+
+excited - 
+ensure - обеспечивать, гарантировать
+to take place - иметь место, происходить, состояться, случаться
+	a small change takes place - происходит небольшое изменение.
+	
+clever - умный, ловкий искусный, способный, талантливый
+obviously - очевидно, по-видимому, ясно.
+
+>>> 26-01-2020
+>>> started at 17-58
+2. angry about / at ... (feeleing: angry, happy, sad, ...)
+Pat is angry about wolking in the rain.
+I am happy about talking with my loved God Jehovah.
+
+3. bad at / good at ...
+John is good at working in the garden.
+I am bad at writing poems.
+
+4. crazy about ...
+The girl is crazy about playing tennis.
+
+5. disappointed about / at ...
+He is disappointed about seeing a bad report.
+I have to make reports about my work. In the report it must be included how much time I spent studying English.
+
+6. excited about ...
+We are excited about making our own film.
+
+7. famous for ...
+Sandy is famous for singing songs.
+
+
+
+
+
+
+
+
+
+
+
