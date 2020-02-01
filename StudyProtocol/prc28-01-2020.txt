@@ -1,0 +1,17 @@
+Записывать затраченное время и информация, что сделал, краткий отчет.
+
+
+>>> started 14-58; 28-01-2020
+1. Read
+2. Write down
+3. Speak
+4. Listen to and repeat.
+
+затем повторять параграфы в произвольном порядке
+
+p1 completed
+<<< stpped at 15-37
+
+>>> started at 22-56
+skip 10 min
+<<< stopped at 0-21
