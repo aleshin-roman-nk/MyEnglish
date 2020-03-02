@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Started": "2020-02-27T23:16:11.8680747+07:00",
+    "Ended": "2020-02-28T00:12:35.508056+07:00",
+    "Title": "Writing text with my handle",
+    "Notes": "Who should decide if and when a married couple will have children?",
+    "Finished": true,
+    "VisibleTitle": "27.02.2020 23:16:11 - 28.02.2020 0:12:35"
+  },
+  {
+    "Started": "2020-02-29T00:45:45.4124536+07:00",
+    "Ended": "2020-02-29T01:33:21.5694036+07:00",
+    "Title": "Конструирую предложения по тексту, не просто переписываю",
+    "Notes": "What Bible principle should a couple's friends and family keep in mind?\nWhat sort of food should my dog eat?\nsort, kind\n\nWho should decide if a couple will have children?\nYou had to decide if you were to do it.\n\ned + noun. married couples\n\nNewly married couples are expected to start having children as soon as possible.\nto be expected + infinitive + gerund\n\nThey may even feel pressure from thier family and others to follow that >custom<.\ncustom - обычай, привычка",
+    "Finished": true,
+    "VisibleTitle": "29.02.2020 0:45:45 - 1:33:21"
+  },
+  {
+    "Started": "2020-02-29T01:37:07.8186354+07:00",
+    "Ended": "2020-02-29T02:00:17.5767417+07:00",
+    "Title": "Listening to the article",
+    "Notes": "[who] pressure [whom] [infinitive] [what]\n\nMy friend and I pressured his dog to swim over this river.\n[My friend and I] made his dog cross this river.\n\nhttps://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-108641.php\n\n1) Subject + Make + object ( personal predicate or objective one) + infinitive without to = (active meaning)\n\nex : The mom makes the kids tidy up their bedrooms at the end of the afternoon. \nex : The shopkeeper made Tommy hand out  the toy he had stolen.\nex : A policeman made the driver go out of his car and put his hands on it.\n\n2) Things get a little more ‘complicated' when ‘make someone do something' is used in the passive form! It must be remembered that, spontaneously, the passive is much more naturally used in English than in French, or most other European languages...\n\nThe construction then becomes ‘to be made TO do something'.\n\nex : He was made to show his ID. \nex : Surprisingly, Mary was made to walk immediately after her operation. \nex : The politician was made to resign after the scandal !\n\n=== Кстати идея - приложение в котором можно составлять тесты самому себе, т.е. один раз правильно составил, затем программа много раз гоняет меня по тестам, пока несколько раз не отвечу правильно.\nТак же приложение, где я буду вводить слова и выражения, которые потом буду повторять, программа будет меня тестировать.\n===\n\n... they will have no one to take care of them when they grow old.\nThat is for them to decide. It is their responsibility.\n\n\n\n\n\n",
+    "Finished": true,
+    "VisibleTitle": "29.02.2020 1:37:07 - 2:00:17"
+  },
+  {
+    "Started": "2020-03-01T03:53:09.1711891+07:00",
+    "Ended": "2020-03-01T04:44:14.9163864+07:00",
+    "Title": "Parsing interesting sentences. Reading an article.",
+    "Notes": "На каждую неделю строить конкретные планы над чем работать.\nЭто может быть прорабатывать запланированные видео, пачка слов, грамматических конструкций.\nПовторяющиеся составления элементарных предложений с этой пачкой слов. Так же виды работ: слушать, составлять, читать, говорить (запись на диктофон).\nИзучать (учить) материал можно в формате составил вопрос по тексту - написал ответил. Короче составлять вопросы по тексту статьи и отвечать, конструируя предложения.\n\nИзучая, не сосредотачиваться на словах а на мыслях.\nНесколько раз прочитать текст и написать кратко. Должен рассказать своими словами.\n\nI am reading interesting articles about c#. I should pay attention to the deep meaning. Я должен осмысливать мысль предложений а не только упарываться в отдельные слова. Нужно улавливать идею абзатца и пересказывать. Запоминать и повторять на память перессказ.\n\nhttps://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/\n\nC# syntaxes are like C++. .NET and C# library is similar to Java.\n>to be similar to<\n\nWhat is C#?\n\nСобрать набор слов, которые знаю и составлять из них ",
+    "Finished": true,
+    "VisibleTitle": "01.03.2020 3:53:09 - 4:44:14"
+  },
+  {
+    "Started": "2020-03-01T13:04:38.9939421+07:00",
+    "Ended": "2020-03-01T13:25:04.9025211+07:00",
+    "Title": "C# interview questions",
+    "Notes": "How will you differentiate between a Class and a Struct?\n\ndifferentiate - различать, отличать\n\nAnother distinction between class and struct is based on memory management. The former supports garbage collection while the latter doesn't.\n\ndistinction - отличие, различие, (признание, уважение, известность)",
+    "Finished": true,
+    "VisibleTitle": "01.03.2020 13:04:38 - 13:25:04"
+  },
+  {
+    "Started": "2020-03-01T14:02:53.4503771+07:00",
+    "Ended": "2020-03-01T14:52:45.475711+07:00",
+    "Title": "C# interview questions",
+    "Notes": "How will you differentiate between a class and a struct?\n\na class is a reference type and stores on the heap;\na struct is a value type and is stored on the stack;\n\na struct doesn't support inheritance and polymorphism;\na class does;\n\na class can be of an abstract type;\na struct can't;\n\nall members of a class are private be default\nall members of a struct are public be default\n\nThe distinction between class and struct which is based on memory management is that the former supports garbage collection while the latter doesn't.\n\nto be based on something",
+    "Finished": true,
+    "VisibleTitle": "01.03.2020 14:02:53 - 14:52:45"
+  }
+]
