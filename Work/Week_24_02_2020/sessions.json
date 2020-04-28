@@ -1,0 +1,200 @@
+﻿[
+  {
+    "Started": "2020-02-27T23:16:11.8680747+07:00",
+    "Ended": "2020-02-28T00:12:35.508056+07:00",
+    "Title": "Writing text with my handle",
+    "Notes": "Who should decide if and when a married couple will have children?",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 56,
+    "VisibleTitle": "27.02.2020 23:16 - 56"
+  },
+  {
+    "Started": "2020-02-29T00:45:45.4124536+07:00",
+    "Ended": "2020-02-29T01:33:21.5694036+07:00",
+    "Title": "Конструирую предложения по тексту, не просто переписываю",
+    "Notes": "What Bible principle should a couple's friends and family keep in mind?\nWhat sort of food should my dog eat?\nsort, kind\n\nWho should decide if a couple will have children?\nYou had to decide if you were to do it.\n\ned + noun. married couples\n\nNewly married couples are expected to start having children as soon as possible.\nto be expected + infinitive + gerund\n\nThey may even feel pressure from thier family and others to follow that >custom<.\ncustom - обычай, привычка",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 47,
+    "VisibleTitle": "29.02.2020 0:45 - 47"
+  },
+  {
+    "Started": "2020-02-29T01:37:07.8186354+07:00",
+    "Ended": "2020-02-29T02:00:17.5767417+07:00",
+    "Title": "Listening to the article",
+    "Notes": "[who] pressure [whom] [infinitive] [what]\n\nMy friend and I pressured his dog to swim over this river.\n[My friend and I] made his dog cross this river.\n\nhttps://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-108641.php\n\n1) Subject + Make + object ( personal predicate or objective one) + infinitive without to = (active meaning)\n\nex : The mom makes the kids tidy up their bedrooms at the end of the afternoon. \nex : The shopkeeper made Tommy hand out  the toy he had stolen.\nex : A policeman made the driver go out of his car and put his hands on it.\n\n2) Things get a little more ‘complicated' when ‘make someone do something' is used in the passive form! It must be remembered that, spontaneously, the passive is much more naturally used in English than in French, or most other European languages...\n\nThe construction then becomes ‘to be made TO do something'.\n\nex : He was made to show his ID. \nex : Surprisingly, Mary was made to walk immediately after her operation. \nex : The politician was made to resign after the scandal !\n\n=== Кстати идея - приложение в котором можно составлять тесты самому себе, т.е. один раз правильно составил, затем программа много раз гоняет меня по тестам, пока несколько раз не отвечу правильно.\nТак же приложение, где я буду вводить слова и выражения, которые потом буду повторять, программа будет меня тестировать.\n===\n\n... they will have no one to take care of them when they grow old.\nThat is for them to decide. It is their responsibility.\n\n\n\n\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 23,
+    "VisibleTitle": "29.02.2020 1:37 - 23"
+  },
+  {
+    "Started": "2020-03-01T03:53:09.1711891+07:00",
+    "Ended": "2020-03-01T04:44:14.9163864+07:00",
+    "Title": "Parsing interesting sentences. Reading an article.",
+    "Notes": "На каждую неделю строить конкретные планы над чем работать.\nЭто может быть прорабатывать запланированные видео, пачка слов, грамматических конструкций.\nПовторяющиеся составления элементарных предложений с этой пачкой слов. Так же виды работ: слушать, составлять, читать, говорить (запись на диктофон).\nИзучать (учить) материал можно в формате составил вопрос по тексту - написал ответил. Короче составлять вопросы по тексту статьи и отвечать, конструируя предложения.\n\nИзучая, не сосредотачиваться на словах а на мыслях.\nНесколько раз прочитать текст и написать кратко. Должен рассказать своими словами.\n\nI am reading interesting articles about c#. I should pay attention to the deep meaning. Я должен осмысливать мысль предложений а не только упарываться в отдельные слова. Нужно улавливать идею абзатца и пересказывать. Запоминать и повторять на память перессказ.\n\nhttps://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/\n\nC# syntaxes are like C++. .NET and C# library is similar to Java.\n>to be similar to<\n\nWhat is C#?\n\nСобрать набор слов, которые знаю и составлять из них ",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 51,
+    "VisibleTitle": "01.03.2020 3:53 - 51"
+  },
+  {
+    "Started": "2020-03-01T13:04:38.9939421+07:00",
+    "Ended": "2020-03-01T13:25:04.9025211+07:00",
+    "Title": "C# interview questions",
+    "Notes": "How will you differentiate between a Class and a Struct?\n\ndifferentiate - различать, отличать\n\nAnother distinction between class and struct is based on memory management. The former supports garbage collection while the latter doesn't.\n\ndistinction - отличие, различие, (признание, уважение, известность)",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 20,
+    "VisibleTitle": "01.03.2020 13:04 - 20"
+  },
+  {
+    "Started": "2020-03-01T14:02:53.4503771+07:00",
+    "Ended": "2020-03-01T14:52:45.475711+07:00",
+    "Title": "C# interview questions",
+    "Notes": "How will you differentiate between a class and a struct?\n\na class is a reference type and stores on the heap;\na struct is a value type and is stored on the stack;\n\na struct doesn't support inheritance and polymorphism;\na class does;\n\na class can be of an abstract type;\na struct can't;\n\nall members of a class are private be default\nall members of a struct are public be default\n\nThe distinction between class and struct which is based on memory management is that the former supports garbage collection while the latter doesn't.\n\nto be based on something",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 49,
+    "VisibleTitle": "01.03.2020 14:02 - 49"
+  },
+  {
+    "Started": "2020-03-06T14:55:44.3319107+07:00",
+    "Ended": "2020-03-06T16:18:33.8421281+07:00",
+    "Title": "C# Interview questions. Compare Virtual methods and Abstract methods.",
+    "Notes": "https://www.c-sharpcorner.com/UploadFile/3d39b4/virtual-method-in-C-Sharp/\n\nhttps://stackoverflow.com/questions/5307474/virtual-functions-c-sharp\n\nAny vurtual method mast have a default implementation, and it can be overridden...\n\nA virtual method is a method that can be redefined in derived classes. A virtual method has an implementation in a base class as well as derived the class.\n... as well as derived the class...\n\nIt >is used< when a method's basic functionality is the same but sometimes more functionality is needed in the derived class.\nA virtual method is created in the base class that can be overriden in the derived class.\n\nI should decide whether to call you.\n\nThe compiler generates vtables for you behind the scenes, and decides at compile time whether to call through the vtable or not based on the rules of overload resolution.\n\n!!! >I have to summarize what I have learned today.< !!!\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 82,
+    "VisibleTitle": "06.03.2020 14:55 - 82"
+  },
+  {
+    "Started": "2020-03-07T02:05:15.5054186+07:00",
+    "Ended": "2020-03-07T02:20:11.9181974+07:00",
+    "Title": "Learning the study article",
+    "Notes": "After the women leave the tomb, Jesus himself approaches them and gives the following direction: \"...\"\n\nAt the meeting that Jesus organized, he outlined the vital work that his disciples would accomplish throughout the first centary - the same work that we are accomplishing today.\n\nhe outlined the vital work\n\nhe outlined - он очертил, обрисовать, наметит в общих чертах, рисовать контур\nvital (прилаг) - жизненно важно, существенно, жизненно необходимо\naccomplish - выполнять, совершать, достигать, завершать, достигать совершенства, доводить до конца.\nthroughout (предлог) - на протяжении, по всему,\n (наречие) - повсюду, через, во всех отношениях\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 14,
+    "VisibleTitle": "07.03.2020 2:05 - 14"
+  },
+  {
+    "Started": "2020-03-07T18:31:46.5824912+07:00",
+    "Ended": "2020-03-07T18:53:00.9692899+07:00",
+    "Title": "Learning the study article. STUDY ARTICLE 1",
+    "Notes": "Interesting words.\n\nWe have good reasons for thinking that Paul had in mind the very meeting in Galilee described in Matthew 28.\nPaul had in mind >the very meeting< - та самая встреча\nthe very next day - уже на следующий день\n\nsome who study the Bible with us seem reluctant to become disciples.\nreluctant - неохотный, вынужденный, делающий с неохотой.",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 21,
+    "VisibleTitle": "07.03.2020 18:31 - 21"
+  },
+  {
+    "Started": "2020-03-10T00:57:18.3795245+07:00",
+    "Ended": "2020-03-10T01:56:24.399804+07:00",
+    "Title": "Congregation Bible Study. Jesus - The Way. Chapter 107",
+    "Notes": "As Jesus ministry draws to an end, he continues to use illustrations to expose the scribes and the chief priests.\nhe continues to use - для глагола, второй должен быть infinitive form.\n\nIt draws to an end - подвести конец\nhttps://dictionary.cambridge.org/ru/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/draw\nattract - привлекать, притягивать, манить\ncontinue\nuse\nexpose\nhence - следовательно, отсюда, с этих пор\n\nHence, they want to kill him.\n\nwant to kill - two verbs - want, kill. Therefore the second verb must be in infinitive form.\n\nBut Jesus is not finished exposing them.\nHe relates another illustration.\nHe relates - рассказывает\n\nThe Kingdom of the heavens may be likened to a king who made a marriage feast for his son.\nliken - уподобить, сравнить с\nfeast - праздник, пир, банкет\n\nWhat of the king's son and those invited to the marriage feast?\nWhat of ... - как насчет ...\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 59,
+    "VisibleTitle": "10.03.2020 0:57 - 59"
+  },
+  {
+    "Started": "2020-03-10T11:34:27.5178767+07:00",
+    "Ended": "2020-03-10T11:42:29.7602873+07:00",
+    "Title": null,
+    "Notes": "There will be plenty of example sentences.\n\nplenty - много, ",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 8,
+    "VisibleTitle": "10.03.2020 11:34 - 8"
+  },
+  {
+    "Started": "2020-03-10T11:59:05.4067195+07:00",
+    "Ended": "2020-03-10T12:44:20.2028015+07:00",
+    "Title": "Congregation Bible Study. Chapter 107",
+    "Notes": "they were unwilling to come.\nunwilling - не желающий, нерасположенный, несклонный\n\nand to grasp that those invited are the ones who will be with the Son in the Kingdom of the heavens.\nto grasp that - понять, что\nto grasp - понять, осознать, усвоить, схватывать, постигать, сообразить\nto grasp - can mean to hold something firmly (I grasped his hand, They held the rope in a strong grasp)\n - to comprehend (уразуметь, понимать, постигать)\nhttps://hinative.com/ru/questions/3824632\nYou don't seem to have grasped what I said.\n\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 45,
+    "VisibleTitle": "10.03.2020 11:59 - 45"
+  },
+  {
+    "Started": "2020-03-10T12:58:19.2538366+07:00",
+    "Ended": "2020-03-10T13:46:45.3062582+07:00",
+    "Title": "Congregation Bible Study. Chapter 107",
+    "Notes": "hardly ever - почти никогда, очень редко, едва ли когда-нибудь\n\nshe has grasped it amazingly well hardly ever an issue unless she decides she wants to push some limits, then it's trick for treat time to refocus\n\n??? hardly ever an issue ???\n\nTo whom have Jesus and the apostoles been preaching about the Kingdom?\nIt has been to the Jews.\n\nThis nation accepted the Law convenant in 1513 D.C.E., thereby coming first in line to make up \"a kingdom of priests\"\nthereby - таким образом, тем самым, в связи с этим.\nmake up - составить эту группу.\n\nwent out - выходить в свет, выходить\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 48,
+    "VisibleTitle": "10.03.2020 12:58 - 48"
+  },
+  {
+    "Started": "2020-03-10T13:59:49.0575286+07:00",
+    "Ended": "2020-03-10T14:39:30.6254674+07:00",
+    "Title": "Congregation Bible Study. Chapter 107",
+    "Notes": "He goes on to say...\n\nnevertheless - тем не менее, однако, несмотря на это\n\nThey may not understand the meaning or implications of all that Jesus is saying.\nВозможно они не все понимают.\nimplication - подтекст, смысл, подразумевание\nimplications - последствия.\nNevertheless, they are displeased and more determined than ever to rid themselves of the one causing them such embarrassment.\n\nmore determined than ever - утверждаются в решимости как никогда\nembarrassment - конфуз, смущение, препятствие, затруднение, замешательство.\n\nThey received God's spirit, coming in line for a place in the Kingdom of the heavens that Jesus mentioned.\ncoming in line for a place\ncoming first in line to make up a group",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 39,
+    "VisibleTitle": "10.03.2020 13:59 - 39"
+  },
+  {
+    "Started": "2020-03-10T14:39:32.4568823+07:00",
+    "Ended": "2020-03-10T16:03:39.3883047+07:00",
+    "Title": "Words and grammar constructions of article to exercise my own practical work.",
+    "Notes": "What of\nHe continues to use it to expose them\nhence - следовательно, с этих пор.\nThay want to kill him\nHe is not finished exposing them.\nHe relates another illustration.\nIt may be likened to a king who made a marriage feast.\n\nThay were to have another opportunity.\ngo off - уходить, сходить, сбежать\n\nBut unconcerned they went off.\nunconcerned - беззаботный, равнодушный, беспечный, незаинтересованный.\n\nit is not difficult to do smth\n\nto mention - упомянуть\nmentioned\nmentioning\n\nWho are the first ones to be invited?\nTo whom have Jesus and the apostoles been preaching about the Kingdom?\nIt has been to the Jews.\n\nto accept\nThis nation accepted the Law covenant in 1513 B.C.E.\n\nHe sent his slaves to call those invited to the marriage feast.\nThey were unwilling to come.\n\nHe introduces his illustration by mentioning the Kingdom of the heavens.\n\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 84,
+    "VisibleTitle": "10.03.2020 14:39 - 84"
+  },
+  {
+    "Started": "2020-03-10T21:03:47.8378931+07:00",
+    "Ended": "2020-03-10T22:03:53.0322281+07:00",
+    "Title": "Watching TV show with Billie Eilish",
+    "Notes": "I was like ...",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 60,
+    "VisibleTitle": "10.03.2020 21:03 - 60"
+  },
+  {
+    "Started": "2020-03-11T18:48:01.0635099+07:00",
+    "Ended": "2020-03-11T19:52:58.1093459+07:00",
+    "Title": "Passive voice",
+    "Notes": "But Jesus is not finished exposing them.\nThe cat followed by the dog.\nКошка следовала за собакой.\n\nhttps://www.englishpractice.com/improve/active-passive-voice-present-perfect-tense/\n\nThe big cake was baked by Sam.\n\nMy dog has been stolen.\n\nActive: I have written a story\nPassive: A story has been written by me.\n\nActive: Thay have built a house.\nPassive: A house has been biult by me.\n\nActive: He has broken my window.\nPassive: My window has been broken by him.\n\nActive: I have placed an order for a digital camera.\nPassive: An order for a digital camera has been placed by me.\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 64,
+    "VisibleTitle": "11.03.2020 18:48 - 64"
+  },
+  {
+    "Started": "2020-03-13T23:46:13.1285703+07:00",
+    "Ended": "2020-03-14T01:00:34.6073957+07:00",
+    "Title": "World to learn\nЭто все слова, с которыми хочу посоставлять предложения, рассказы и тем самым перевести в мой активный словарь.",
+    "Notes": "to endure - терпеть, выносить, выдюжить\nHe also had to endure \"a thorn in the flesh,\" possibly some sort of health problem.\n\nto cope - справляться, совладать, бороться...\nAnd he had to cope with disappointment when Demas, his onetime fellow worker, abandoned him...\n\ncertainly - конечно, безусловно, несомненно\nJehovah certainly used His holy spirit to strengthen him.\n\n# Набрать коллекцию глаголов, существительных. Составлять предложения, пользуясь законами грамматики.\n# Так же отрабатывать навык понимания и составления составных сказуемых, например a Macedonian Christian from Thessalonika\n# Набрав достаточный набор материала, работать над ним неделю, тем самым основательно осваявая это. (Полезно научиться ставить себе адекватные задачи.) Таким образом блок за блоком растет уровень.\n\nto prove - доказывать, подтверждать, удостоверять...\nHe proved to be a loyal friend to Paul.\nHe proved [what?] to be a someone.\n\naccompany - сопровождать, сопутствовать.\nWhile accompanying Paul, Aristarchus was captured by a mob.\n\napparently - по-видимому, видимо, очевидно, вероятно.\nHe apparently spent some time in priston with Paul.\n\nLittle wonder - не-удивительно\nLittle wonder that Paul felt encouraged and comforted by such a loyal companion!\n\n",
+    "Finished": true,
+    "Pauses": [],
+    "AllPausesMinutes": 0,
+    "TotalTimeMinutes": 74,
+    "VisibleTitle": "13.03.2020 23:46 - 74"
+  }
+]
