@@ -1,0 +1,39 @@
+﻿[
+  {
+    "Started": "2020-06-08T09:59:09.8329194+07:00",
+    "Ended": "2020-06-08T13:41:14.766148+07:00",
+    "Title": "Set of new words.\n\nотнять минут 15",
+    "Notes": "\nprominent - видный, известный, выдающийся\nProminent among those qualities are humility, submissiveness, mildness, and inner strength.\n\nWhen we do God's will, we make Satan furious.\nsmone makes smone \n\nSo even though we are humble and mild, many people who are part of Satan's world hate us.\n\nAs a result, ...\n\nThe opposite of [...] is [...]\n\nhaughty - надменный\n\neven though - даже несмотря на\n\nJust as an artist combines a number of appealing colors to produce a painting, we must combine a number of appealing qualities to be meek.\n\n\n",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [
+      {
+        "Start": "2020-06-08T10:32:27.4322348+07:00",
+        "End": "2020-06-08T11:08:31.9573251+07:00",
+        "Closed": true,
+        "Total": "00:36:04.5250903"
+      },
+      {
+        "Start": "2020-06-08T11:14:57.6744029+07:00",
+        "End": "2020-06-08T12:15:12.9504677+07:00",
+        "Closed": true,
+        "Total": "01:00:15.2760648"
+      },
+      {
+        "Start": "2020-06-08T12:25:34.1409554+07:00",
+        "End": "2020-06-08T13:41:14.766148+07:00",
+        "Closed": true,
+        "Total": "01:15:40.6251926"
+      }
+    ],
+    "LastPause": {
+      "Start": "2020-06-08T12:25:34.1409554+07:00",
+      "End": "2020-06-08T13:41:14.766148+07:00",
+      "Closed": true,
+      "Total": "01:15:40.6251926"
+    },
+    "TotalPausesInMinutes": 172,
+    "TotalTimeInMinutes": 50,
+    "VisibleTitle": "08.06.2020 9:59 - 50"
+  }
+]
