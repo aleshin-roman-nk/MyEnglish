@@ -1,4 +1,23 @@
 ﻿{
   "Name": "Глаголы 1",
-  "WordsBankItems": []
+  "WordsBankItems": [
+    {
+      "Name": "read up",
+      "Title": null,
+      "Body": "read up on - прочесть\nOkay, after reading up on MVP, I have decided to implement the Passive View.\n",
+      "Tags": null
+    },
+    {
+      "Name": "resurface",
+      "Title": null,
+      "Body": "всплыть на поверхность\n\nThat weakness resurfaces this evening.",
+      "Tags": null
+    },
+    {
+      "Name": "discern",
+      "Title": null,
+      "Body": "различать, разглядеть, распознать\nto detect with the senses, especially the eyes.\n\n[Subj] discern [adverb] [obj]\n\nsubj: \nadverb : correctly\nobj : the meaning of a Bible prophecy",
+      "Tags": null
+    }
+  ]
 }
