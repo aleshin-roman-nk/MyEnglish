@@ -1,15 +1,67 @@
 ﻿[
   {
     "Started": "2020-06-15T15:36:19.2275642+07:00",
-    "Ended": "0001-01-01T00:00:00",
-    "Title": "Reading loud and listening",
+    "Ended": "2020-06-15T17:02:43.1384083+07:00",
+    "Title": "Reading out loud and listening",
     "Notes": null,
-    "SessionState": 1,
-    "IsClosed": false,
+    "SessionState": 0,
+    "IsClosed": true,
     "Pauses": [],
     "LastPause": null,
     "TotalPausesInMinutes": 0,
-    "TotalTimeInMinutes": -1062130536,
-    "VisibleTitle": "15.06.2020 15:36 - *"
+    "TotalTimeInMinutes": 86,
+    "VisibleTitle": "15.06.2020 15:36 - 86"
+  },
+  {
+    "Started": "2020-06-16T10:05:41.8961907+07:00",
+    "Ended": "2020-06-16T10:56:25.4665553+07:00",
+    "Title": "Reading out loud and listening",
+    "Notes": "unusual using modal verbs\n\nonly when they do will we able to discern their true fellengs.\n\nonly by accepting him and his teachings and imitating his life course can one enter the heavenly house of his Father.",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 50,
+    "VisibleTitle": "16.06.2020 10:05 - 50"
+  },
+  {
+    "Started": "2020-06-16T12:01:55.7500402+07:00",
+    "Ended": "2020-06-16T12:02:45.2951814+07:00",
+    "Title": "Строить словарь с группами синонимами.\nСоставлять выражения одной мысли разными способами.\nСОСТАВЛЯТЬ предложения по словам и конструкциям, которые нахожу в тексте. Пополнять свой активный вокабуляри",
+    "Notes": null,
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 0,
+    "VisibleTitle": "16.06.2020 12:01 - 0"
+  },
+  {
+    "Started": "2020-06-17T09:04:06.9753231+07:00",
+    "Ended": "2020-06-17T09:05:26.8643679+07:00",
+    "Title": "Разделяй и всавствуй. Поэтапно изучать применение предлогов. Сначала to, потом for и т.д.\nПо текущему тексту брать набор слов, выражений и составлять истории.\nИспользовать целый день (или повторять, с примерами применения) набор из один слов (слова предложения не обязательно должны быть из набора) и тренировать применениеи, или же просто проговаривать слова и конструкции.\nИзучать материалы и составлять статьи (речи).",
+    "Notes": "Добавить функцию отметки цветом сессию. Весить на нее тег.",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 1,
+    "VisibleTitle": "17.06.2020 9:04 - 1"
+  },
+  {
+    "Started": "2020-06-19T20:44:15.8853867+07:00",
+    "Ended": "2020-06-19T20:45:11.0385074+07:00",
+    "Title": "Коллекционировать глаголы состояния и действия.\nСтроить из них временные формы и придумывать истории.",
+    "Notes": null,
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 0,
+    "VisibleTitle": "19.06.2020 20:44 - 0"
   }
 ]
