@@ -1,0 +1,33 @@
+﻿[
+  {
+    "Started": "2020-07-11T16:07:47.7132305+07:00",
+    "Ended": "2020-07-11T21:58:10.203043+07:00",
+    "Title": "Я должен выписывать слова в коллекцию и должен знать, зачем каждое из них мне.",
+    "Notes": "Adjectived with preposition\nfamous for\nproud of\ninterested in\npleased with\nbad at\ngood at\nmarried to\nexcited about\ndifferent from/to\nafraid of\n\nto hold\nWe do not have to do\nWith those points in mind, we do smthg\nto take\nit takes 4 steps to get a code to get compiled in C#.\n",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [
+      {
+        "Start": "2020-07-11T16:08:13.7484264+07:00",
+        "End": "2020-07-11T16:29:32.5509895+07:00",
+        "Closed": true,
+        "Total": "00:21:18.8025631"
+      },
+      {
+        "Start": "2020-07-11T16:37:21.7478757+07:00",
+        "End": "2020-07-11T21:58:10.203043+07:00",
+        "Closed": true,
+        "Total": "05:20:48.4551673"
+      }
+    ],
+    "LastPause": {
+      "Start": "2020-07-11T16:37:21.7478757+07:00",
+      "End": "2020-07-11T21:58:10.203043+07:00",
+      "Closed": true,
+      "Total": "05:20:48.4551673"
+    },
+    "TotalPausesInMinutes": 342,
+    "TotalTimeInMinutes": 8,
+    "VisibleTitle": "11.07.2020 16:07 - 8"
+  }
+]
