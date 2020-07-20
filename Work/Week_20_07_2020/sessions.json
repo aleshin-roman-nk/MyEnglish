@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Started": "2020-07-20T10:25:06.0436009+07:00",
+    "Ended": "2020-07-20T21:09:13.2360906+07:00",
+    "Title": null,
+    "Notes": "evaluate - оценивать\nmeasuring stick - изерительная линейка\nmeasuring stick of God's Word.",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [
+      {
+        "Start": "2020-07-20T10:27:05.231942+07:00",
+        "End": "2020-07-20T21:09:13.2360906+07:00",
+        "Closed": true,
+        "Total": "10:42:08.0041486"
+      }
+    ],
+    "LastPause": {
+      "Start": "2020-07-20T10:27:05.231942+07:00",
+      "End": "2020-07-20T21:09:13.2360906+07:00",
+      "Closed": true,
+      "Total": "10:42:08.0041486"
+    },
+    "TotalPausesInMinutes": 642,
+    "TotalTimeInMinutes": 2,
+    "VisibleTitle": "20.07.2020 10:25 - 2"
+  }
+]
