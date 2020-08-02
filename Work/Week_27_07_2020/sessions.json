@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Started": "2020-08-01T13:20:43.6142735+07:00",
+    "Ended": "2020-08-01T13:21:06.4266869+07:00",
+    "Title": "Необходимо работать над каждым словом.\nМне нужна программа периодической работы над группой слов.\n",
+    "Notes": null,
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 0,
+    "VisibleTitle": "01.08.2020 13:20 - 0"
+  },
+  {
+    "Started": "2020-08-01T13:27:31.2259382+07:00",
+    "Ended": "2020-08-01T13:27:33.4754016+07:00",
+    "Title": null,
+    "Notes": null,
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [],
+    "LastPause": null,
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 0,
+    "VisibleTitle": "01.08.2020 13:27 - 0"
+  }
+]
