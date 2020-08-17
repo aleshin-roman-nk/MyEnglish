@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Started": "2020-08-12T01:21:45.5421006+07:00",
+    "Ended": "2020-08-12T01:29:11.7969698+07:00",
+    "Title": "Translate practice",
+    "Notes": "Certain members of the audience may disagreewith what I'm about to say.\nНекоторые члены этой аудитории могут несогласиться с тем, что я хочу/собираюсь сказать.\n\nWe have certain reasons for our decision, which have to remain confidential.\nУ нас есть некоторые/определенные причины для нашего решения, которое должно остаться конфиденциальным.\n\n\n",
+    "SessionState": 0,
+    "IsClosed": true,
+    "Pauses": [
+      {
+        "Start": "2020-08-12T01:29:07.8610648+07:00",
+        "End": "2020-08-12T01:29:11.7969698+07:00",
+        "Closed": true,
+        "Total": "00:00:03.9359050"
+      }
+    ],
+    "LastPause": {
+      "Start": "2020-08-12T01:29:07.8610648+07:00",
+      "End": "2020-08-12T01:29:11.7969698+07:00",
+      "Closed": true,
+      "Total": "00:00:03.9359050"
+    },
+    "TotalPausesInMinutes": 0,
+    "TotalTimeInMinutes": 7,
+    "VisibleTitle": "12.08.2020 1:21 - 7"
+  }
+]
